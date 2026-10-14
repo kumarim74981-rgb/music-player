@@ -2,26 +2,26 @@ const songs = [
 {
 title:"Tumse Behtar",
 artist:"Arjit Singh",
-src:"songs/song1.mp3",
-image:"images/image1.png"
+src:"./song1.mp3",
+image:"./image1.png"
 },
 {
 title:"Itni Si Baat Hai",
 artist:"Arjit Singh",
-src:"songs/song2.mp3",
-image:"images/image2.png"
+src:"./song2.mp3",
+image:"./image2.png"
 },
 {
 title:"Khat",
 artist:"Navjot Ahuja",
-src:"songs/song3.mp3",
-image:"images/image3.png"
+src:"./song3.mp3",
+image:"./image3.png"
 },
 {
 title:"Sittare",
 artist:"Amitabh Bhattacharya",
-src:"songs/song4.mp3",
-image:"images/image4.png"
+src:"./song4.mp3",
+image:"./image4.png"
 }
 ];
 // Elements
